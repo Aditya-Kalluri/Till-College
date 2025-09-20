@@ -1,0 +1,8 @@
+TITLE: Introduction
+
+Continuous vs Discrete time
+
+System and types of systems: Linear, Non-linear, Time varying and time invariant
+
+In this course, the main focus is 1D signals and LTI systems
+
