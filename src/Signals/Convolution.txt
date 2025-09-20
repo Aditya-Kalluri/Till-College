@@ -1,0 +1,11 @@
+**Convolution**
+
+Purpose: Decomposing signals in terms of delayed impulses.
+
+When an input 'x' goes into a system (LTI blackbox) it produces an output 'y'. y[n] is the considered to be the weighted sum of all the x[i] (i is from -inf to inf).
+
+How are the weights defined for all of these impulses?
+Every system has this function called an input response that defines how these weights are assigned. The definition of the impulse response is given as the response it gives for a dirac delta input.
+
+Where is it used?
+It is used in CNNs, in signal 
